@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462595065 source:f:\new folder\root\nova pasta\montador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+

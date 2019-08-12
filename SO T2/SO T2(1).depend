@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463450846 source:f:\new folder\root\nova pasta\so t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<strings.h>
+	<math.h>
+
