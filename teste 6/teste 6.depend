@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460070981 source:f:\new folder\root\nova pasta\teste 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1466960890 source:f:\new folder\root\nova pasta\so t3\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1467811612 source:d:\so t3 pt2\main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1469666250 source:f:\new folder\root\nova pasta\so t3 pt3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+	<pthread.h>
+

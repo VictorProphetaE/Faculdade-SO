@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471830573 source:f:\new folder\root\nova pasta\sot4pt2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdint.h>
+	<inttypes.h>
+	<pthread.h>
+	<math.h>
+
